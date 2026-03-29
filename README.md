@@ -112,6 +112,8 @@ views
       <strong>❌ Login Error State</strong><br>
       <img src="./screenshots/login-form-error.png" alt="Success" style="border-radius: 10px; border: 1px solid #ddd;">
     </td>
+  </tr>
+  <tr>
     <td style="width: 50%; text-align: center; padding-top: 20px;">
       <strong>❌ Register Error State</strong><br>
       <img src="./screenshots/register-form-errors.png" alt="Success" style="border-radius: 10px; border: 1px solid #ddd;">
@@ -121,4 +123,4 @@ views
 
 ### 📝 License
 
-This project is open-source software licensed under the MIT license.
+This project is open-source software licensed under the [MIT license](LICENSE).
